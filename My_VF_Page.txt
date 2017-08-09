@@ -6,5 +6,7 @@ This is your new Page 1
 
 This is your new Page 2
 
+This is your new Page 3
+
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
